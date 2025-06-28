@@ -8,4 +8,4 @@ Team: The Pahades
 
 - ✅ [Test Case Management Project](https://test-management.browserstack.com/projects/2069095/insights/overview/DEFAULT)
 - ✅ [GitHub Repository](https://github.com/iamu985/bugbash)
-- ✅ [Test Observability Dashboard](https://automate.browserstack.com/observability)
+- ✅ [Test Observability Dashboard](https://test-management.browserstack.com/projects/2069095/builds/selenium+bugbash/2)
